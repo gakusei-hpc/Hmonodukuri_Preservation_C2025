@@ -26,7 +26,7 @@ td.event{
     font-size: 40px;
     padding: 5px 10px;
     text-align: center;
-    width: 400px; 
+    width: 420px; 
 }
 
 td.time{
@@ -34,7 +34,7 @@ td.time{
     font-size: 40px;
     padding: 5px 10px;
     text-align: center;
-    width: 200px; 
+    width: 180px; 
 }
 
 td.reserve{
@@ -50,7 +50,7 @@ td.last{
     font-size: 40px;
     padding: 5px 10px;
     text-align: center;
-    width: 150px; 
+    width: 140px; 
 }
 
 li{
