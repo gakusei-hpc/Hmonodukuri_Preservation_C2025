@@ -21,12 +21,36 @@ td{
     text-align: center;
 }
 
+td.event{
+    border: 3px solid black;
+    font-size: 40px;
+    padding: 5px 10px;
+    text-align: center;
+    width: 400px; 
+}
+
 td.time{
     border: 3px solid black;
     font-size: 40px;
     padding: 5px 10px;
     text-align: center;
-    width: 180px; 
+    width: 200px; 
+}
+
+td.reserve{
+    border: 3px solid black;
+    font-size: 40px;
+    padding: 5px 10px;
+    text-align: center;
+    width: 100px; 
+}
+
+td.last{
+    border: 3px solid black;
+    font-size: 40px;
+    padding: 5px 10px;
+    text-align: center;
+    width: 150px; 
 }
 
 li{
